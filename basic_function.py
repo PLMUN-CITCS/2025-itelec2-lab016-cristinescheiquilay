@@ -1,5 +1,9 @@
+#
+ basic_function.py
+
 def greet():
-def greet():
-    """Prints a greeting message."""  # Docstring
-    print("Hello, Python Students!")  # Function body
+    """Prints a greeting message."""
+    print("Hello, Python Students!")
+
+# Call the function
 greet()
